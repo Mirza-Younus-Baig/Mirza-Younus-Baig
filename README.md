@@ -1,9 +1,9 @@
 # 💫 About Me:
-Experienced Software Engineer and Technical Trainer with the mission to create meaningful work for the betterment of humanity. 
-<br>Skilled in Python, Azure, Power BI, and problem-solving skills.
-<br>A guide and mentor to 50+ students to help them achieve technical strength.
+⚡️Experienced Software Engineer and Technical Trainer with the mission to create meaningful work for the betterment of humanity. 
+<br>📚Skilled in Python, Azure, Power BI, and problem-solving skills.
+<br>👨🏻‍🏫A guide and mentor to 50+ students to help them achieve technical strength.
 
-<br>Looking forward to join an organization with a people-oriented vision and a strong growth factor.
+<br>💼Looking forward to join an organization with a people-oriented vision and a strong growth factor.
 
 
 ## 🌐 Socials:

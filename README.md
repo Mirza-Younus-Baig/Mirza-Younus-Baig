@@ -14,3 +14,4 @@
 # 📊 GitHub Stats:
 [![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Younus-Baig)](https://github.com/Mirza-Younus-Baig/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mirza-Younus-Baig&theme=dark&hide_border=false)<br/>
+![Mirza's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=younus_baig&theme=Dark)
